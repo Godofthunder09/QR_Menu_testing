@@ -7,7 +7,7 @@ A table-QR ordering app (React, Vite, Tailwind, Supabase). Customers scan a code
 | Test cases | 83 in 11 modules |
 | Type of testing | Manual: functional, integration and a bit of basic security |
 | Roles | Customer (table PIN) and admin/owner |
-| Author | _[your name]_ |
+| Author | Yash Patil |
 | Date | 7 Nov 2026 |
 
 ## What this is
